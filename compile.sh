@@ -1,0 +1,1 @@
+g++ -I/usr/lib/jvm/java-9-oracle/include -I/usr/lib/jvm/java-9-oracle/linclude/linux -shared Hello.cpp -o libHello.so
